@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "path": "slider-img",
+        "title": "<h1 className='heading-primary'>Comfort and safety at your <span className='heading-primary-bold'>fingertips</span></h1>",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "btn": "shop now"
+    },
+    {
+        "id": 2,
+        "path": "slider-img",
+        "title": "<h1 className='heading-primary'>Comfort and safety at your <span className='heading-primary-bold'>fingertips</span></h1>",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "btn": "shop now"
+    },
+    {
+        "id": 3,
+        "path": "slider-img",
+        "title": "<h1 className='heading-primary'>Comfort and safety at your <span className='heading-primary-bold'>fingertips</span></h1>",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "btn": "shop now"
+    },
+    {
+        "id": 4,
+        "path": "slider-img",
+        "title": "<h1 className='heading-primary'>Comfort and safety at your <span className='heading-primary-bold'>fingertips</span></h1>",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "btn": "shop now"
+    }
+]

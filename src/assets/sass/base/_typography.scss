@@ -1,0 +1,33 @@
+@mixin heading-fonts($fontWeight) {
+    font-weight: $fontWeight;
+    font-size: 36px;
+    line-height: 43px;
+    color: $white;
+}
+
+.heading-primary {
+    @include heading-fonts(400)
+}
+
+.heading-primary-bold {
+    @include heading-fonts(600)
+}
+
+.heading-medium {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.text-primary {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.text-gray {
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    color: #8C8C8C;
+}

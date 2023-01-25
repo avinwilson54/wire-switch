@@ -1,0 +1,11 @@
+@import "../helpers/variables", "../helpers/responsive", "../helpers/mixins";
+
+@import "../base/base", "../base/button", "../base/reset", "../base/typography";
+
+@import "../layouts/Footer.scss", "../layouts/Navbar.scss";
+
+@import "../components/CarouselSlider.scss",
+         "../components/advertise.scss", 
+         "../components/category.scss", 
+         "../components/products", 
+         "../components/offerBanner";

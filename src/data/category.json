@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "path": "switch 1",
+        "name": "Switches"
+    },
+    {
+        "id": 2,
+        "path": "wiring 1",
+        "name": "Wires & Cables"
+    },
+    {
+        "id": 3,
+        "path": "lightbulb 1",
+        "name": "LED Lights"
+    },
+    {
+        "id": 4,
+        "path": "plug 1",
+        "name": "Plugs & Sockets"
+    },
+    {
+        "id": 5,
+        "path": "relay 1",
+        "name": "Relays"
+    },
+    {
+        "id": 6,
+        "path": "spanner 1",
+        "name": "Hand Tools"
+    },
+    {
+        "id": 7,
+        "path": "dimmer 1",
+        "name": "Fan Regulators & Dimmers"
+    },
+    {
+        "id": 8,
+        "path": "video-doorbell 1",
+        "name": "Doorbells"
+    }
+]

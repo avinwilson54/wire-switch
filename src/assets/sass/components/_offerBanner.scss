@@ -1,0 +1,21 @@
+.offer-wrapper {
+    max-width: min(1240px, 90%);
+    margin: auto;
+    margin-bottom: 68px;
+    .offer-container {
+        margin-bottom: 75px;
+    
+        a {
+            img {
+                width: 100%;
+            }
+        }
+    
+    }
+
+    .deals-container {
+        display: grid;gap: 25px;
+        grid-template-columns: auto 1fr;
+
+    }
+}

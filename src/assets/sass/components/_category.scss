@@ -1,0 +1,43 @@
+.category-container {
+    max-width: min(1240px, 90%);
+    margin: auto;
+    margin-bottom: 68px;
+
+    .category-heading {
+        margin-bottom: 22px;
+    }
+
+    .categories-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        flex: 1 1 100px;
+        gap: 25px;
+
+        a {
+            text-decoration: none;
+            .category {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                padding: 30px 0 22px;
+                width: 133px;
+                height: 133px;
+                background: #F8F8F8;
+                border-radius: 10px;
+                text-align: center;
+    
+                img {
+                    margin-bottom: 31px;
+                }
+    
+                
+
+                &:hover {
+                    background-color: #dad6d6;
+                }
+            }
+        }
+
+    }
+}

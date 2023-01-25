@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "product-1",
+        "name": "Schneider Electric Clipsal X switch 1-way 16A coke grey",
+        "item-code": "CPX161SW1M_GY",
+        "price": "149.26",
+        "cutoff": "439.00",
+        "discount": "60%"
+    },
+    {
+        "id": 2,
+        "image": "product-2",
+        "name": "Crabtree 10 A Mega Bell Push Indicator",
+        "item-code": "CPX161SW1M_GY",
+        "price": "250.00",
+        "cutoff": "300",
+        "discount": "10%"
+    },
+    {
+        "id": 3,
+        "image": "product-3",
+        "name": "Havells 25A Motor Starter",
+        "item-code": "AHFSMXB251",
+        "price": "355.50",
+        "cutoff": "504.00",
+        "discount": "30%"
+    },
+    {
+        "id": 4,
+        "image": "product-4",
+        "name": "Havells 1M Frameio Front Plate Premium Chrome Finish Bezel",
+        "item-code": "AHFSMXB251",
+        "price": "80.00",
+        "cutoff": "91.00",
+        "discount": "10%"
+    }
+]
