@@ -15,7 +15,93 @@
 
     .deals-container {
         display: grid;gap: 25px;
-        grid-template-columns: auto 1fr;
+        grid-template-columns: auto auto;
+
+        .limited-time-deal {
+            display: flex;
+            align-items: stretch;
+            width: 924px;
+            justify-content: space-between;
+            padding: 30px;
+            background: #F8F8F8;
+            border-radius: 10px;
+
+            .limited-time-content {
+
+                .text-yellow.limited {
+                    margin-bottom: 10px;
+                }
+    
+                .heading-medium-dark.heading {
+                    margin-bottom: 24px;
+                }
+
+                .countdown-timer-container {
+                    display: flex;
+                    text-align: center;
+                    gap: 8px;
+                    align-items: center;
+                    margin-bottom: 30px;
+
+                    .countdown-timer {
+                        display: flex;
+                        flex-direction: column;
+                        background: rgba(0, 0, 0, 0.02);
+                        border: 1px solid rgba(0, 0, 0, 0.04);
+                        border-radius: 10px;
+                        padding: 9px 20px 14px;
+
+                        .time-style {
+                            font-weight: 500;
+                            font-size: 25px;
+                            line-height: 30px;
+                            color: #5B5B5B;
+                        }
+
+                        .type-style {
+                            font-weight: 500;
+                            font-size: 12px;
+                            line-height: 14px;
+                            color: #5B5B5B;
+                        }
+                    }
+
+                    .colon {
+                        font-weight: 500;
+                        font-size: 18px;
+                    }
+                }
+    
+                .text-primary-lg.text {
+                    margin-bottom: 14px;
+                }
+    
+                .price {
+                    display: flex;
+                    gap: 10px;
+                    align-items: baseline;
+                    margin-bottom: 24px;
+                }
+    
+                .price > strong {
+                    font-weight: 700;
+                    font-size: 28px;
+                    line-height: 33px;
+                }
+    
+                .price > del {
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 23px;
+                    color: #8C8C8C;
+                }
+    
+                .primary-btn.btn {
+                    padding: 12px 26px 13px 25px;
+                }
+
+            }
+        }
 
     }
 }

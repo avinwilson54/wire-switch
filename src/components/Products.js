@@ -14,7 +14,7 @@ export default function Products() {
     return (
         <div className="products-container">
             <div className="heading-wrapper">
-                <h1 className="heading-medium heading">Our Best Sellers</h1>
+                <h2 className="heading-medium heading">Our Best Sellers</h2>
                 <a href="/">View All</a>
             </div>
             <div className="products-flexer">

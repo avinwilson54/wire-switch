@@ -5,6 +5,7 @@ import Advertise from './components/Advertise';
 import Category from './components/Category';
 import Products from './components/Products';
 import OfferBanner from './components/OfferBanner';
+import ProductSlider from './components/ProductSlider';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Category />
       <Products />
       <OfferBanner />
+      <ProductSlider />
     </div>
   );
 }
