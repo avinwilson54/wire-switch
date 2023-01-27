@@ -1,8 +1,17 @@
 .product-container {
     max-width: min(1240px, 90%);
     margin: auto;
+    margin-bottom: 75px;
+
+    .heading-medium.heading {
+        margin-bottom: 21px;
+    }
 }
 
-.product-slide {
-    margin: 0 12.5px;
+.slick-arrow.slick-prev::before {
+    content: none;
+}
+
+.slick-arrow.slick-next::before {
+    content: none;
 }
